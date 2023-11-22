@@ -36,26 +36,10 @@
 [Filmorate](https://github.com/RuslanYapparov/java-filmorate) - бэкенд сервиса для создания и хранения информации о фильмах, составления топа фильмов для просмотра на основе лайков пользователей и простой рекомендательной системой.  
 
 ---
-<div id ="stats" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RuslanYapparov&show_icons=true&theme=white" alt="stats"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RuslanYapparov&show_icons=true&hide_border=true&theme=default&rank_icon=github" alt="stats"/>
+</p>
 <div id="visits" align="center">
   <img src="https://komarev.com/ghpvc/?username=RuslanYapparov&style=flat-square&color=blue" alt="" />
 </div>
 
-
-
-<!--
-**RuslanYapparov/RuslanYapparov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
