@@ -1,21 +1,21 @@
-[По-русски](README_rus.md)
+[English](README.md)
 <h1>
-  Hey there!
+  Привет!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-I'm glad to see you on my profile!  
+Рад видеть Вас в своем профиле!  
 
 ---
-👨🏻‍💻 I came to Java development from railroad engineering.  
-I'm currently looking for a job and working on my pet-project "three-click-doc" designed to make it easier to process working documents.  
-I love Java for its strict beauty, wide community and technological capabilities.
+👨🏻‍💻 Я пришел в Java-разработку после долгой работы инженером на железнодорожном транспорте.  
+Сейчас я в поисках работы и параллельно разрабатываю свой pet-проект "three-click-doc", предназначенный для облегчения оформления рабочих документов.  
+Я люблю Java за ее строгую красоту, широкое сообщество и технологические возможности.
 <div id="duke" align="center">
   <img src="https://camo.githubusercontent.com/c324a9288c765475aabcf077ef3e152774bcc61264aa950c70a335348cf1fe70/68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f4530305a4567495645415146615a782e6a7067" width="100"/>
 </div>
 
 ---
-🧠 I want to become mighty developer but right now I'm just a beginner...  
-However, I have studied and applied some ***technologies and tools*** in my projects:  
+🧠 Я хочу стать сильным разработчиком, но пока я только новичок...  
+Тем не менее, я изучил и применил некоторые ***технологии и инструменты*** в своих проектах:  
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=openJDK&logoColor=orange)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-090909?style=for-the-badge&logo=SpringBoot&logoColor=6DB33F)
 ![Spring MVC](https://img.shields.io/badge/-Spring%20MVC-090909?style=for-the-badge&logo=Spring&logoColor=6DB33F)
@@ -30,10 +30,10 @@ However, I have studied and applied some ***technologies and tools*** in my proj
 
 ---
 
-🔭 Here you can overview my educational projects:  
-[Explore with me](https://github.com/RuslanYapparov/java-explore-with-me) - backend of service for attracting and gathering people to any events;  
-[ShareIt](https://github.com/RuslanYapparov/java-explore-with-me) - backend of service for sharing or renting things;  
-[Filmorate](https://github.com/RuslanYapparov/java-filmorate) - backend of the movie rating and recommendation service.  
+🔭 Здесь Вы можете посмотреть и оценить мои учебные проекты:  
+[Explore with me](https://github.com/RuslanYapparov/java-explore-with-me) - бэкенд сервиса для создания и хранения информации о различных планируемых мероприятиях и сбора участников;  
+[ShareIt](https://github.com/RuslanYapparov/java-explore-with-me) - бэкенд сервиса для шеринга или аренды вещей, инструментов, устройств и т.п.;  
+[Filmorate](https://github.com/RuslanYapparov/java-filmorate) - бэкенд сервиса для создания и хранения информации о фильмах, составления топа фильмов для просмотра на основе лайков пользователей и простой рекомендательной системой.  
 
 ---
 <div id ="stats" align="center">
