@@ -1,7 +1,7 @@
 [По-русски](README_rus.md)
 <h1>
   Hey there!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="handshake" width="30px"/>
 </h1>
 I'm glad to see you on my profile!  
 
@@ -10,7 +10,7 @@ I'm glad to see you on my profile!
 I'm currently looking for a job and working on my pet-project "three-click-doc" designed to make it easier to process working documents.  
 I love Java for its strict beauty, wide community and technological capabilities.
 <div id="duke" align="center">
-  <img src="https://camo.githubusercontent.com/c324a9288c765475aabcf077ef3e152774bcc61264aa950c70a335348cf1fe70/68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f4530305a4567495645415146615a782e6a7067" width="100"/>
+  <img src="https://www.java.net.ar/user/pages/01.home/04.jconf-dev-edition-2021/duke-love.png" alt="duke" width="100"/>
 </div>
 
 ---

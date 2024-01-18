@@ -1,7 +1,7 @@
 [English](README.md)
 <h1>
   Привет!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="handshake" width="30px"/>
 </h1>
 Рад видеть Вас в своем профиле!  
 
@@ -10,7 +10,7 @@
 Сейчас я в поисках работы и параллельно разрабатываю свой pet-проект "three-click-doc", предназначенный для облегчения оформления рабочих документов.  
 Я люблю Java за ее строгую красоту, широкое сообщество и технологические возможности.
 <div id="duke" align="center">
-  <img src="https://camo.githubusercontent.com/c324a9288c765475aabcf077ef3e152774bcc61264aa950c70a335348cf1fe70/68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f4530305a4567495645415146615a782e6a7067" width="100"/>
+  <img src="https://www.java.net.ar/user/pages/01.home/04.jconf-dev-edition-2021/duke-love.png" alt="duke" width="100"/>
 </div>
 
 ---
