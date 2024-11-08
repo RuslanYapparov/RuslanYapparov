@@ -34,10 +34,10 @@ I have experience with some ***technologies and tools***:
 
 ---
 🔭 Here you can overview my public projects:  
-[DI object data extractor](git@github.com:RuslanYapparov/di-object-data-extractor.git) - The module of the
+[DI object data extractor](https://github.com/RuslanYapparov/di-object-data-extractor) - the module of the
 'rzd-engineer-assistant' project responsible for obtaining information about infrastructure facilities.
 It simulates a connection to the database of passport data for infrastructure facilities.  
-[Employee data extractor](git@github.com:RuslanYapparov/employee-data-extractor.git) - the module of the project
+[Employee data extractor](https://github.com/RuslanYapparov/employee-data-extractor) - the module of the project
 'rzd-engineer-assistant', responsible for retrieving extended information about enterprise employees.
 It simulates a connection to the human resources management database system.  
 
