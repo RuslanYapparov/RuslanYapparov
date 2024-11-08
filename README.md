@@ -7,21 +7,25 @@ I'm glad to see you on my profile!
 
 ---
 👨🏻‍💻 I came to Java development from railroad engineering.  
-I'm currently looking for a job and working on my pet-project "three-click-doc" designed to make it easier to process working documents.  
 I love Java for its strict beauty, wide community and technological capabilities.
 <div id="duke" align="center">
   <img src="https://www.java.net.ar/user/pages/01.home/04.jconf-dev-edition-2021/duke-love.png" alt="duke" width="100"/>
 </div>
+I have implemented some interesting ideas in my pet-project "Rzd-engineer-assistant", designed to facilitate the daily work 
+of the company's employees. In my public repositories you can see two project modules.
 
 ---
-🧠 I want to become mighty developer but right now I'm just a beginner...  
-However, I have studied and applied some ***technologies and tools*** in my projects:  
+🧠 I want to become an impressive developer, but I'm only halfway there...
+I have experience with some ***technologies and tools***:  
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=openJDK&logoColor=orange)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-090909?style=for-the-badge&logo=SpringBoot&logoColor=6DB33F)
 ![Spring MVC](https://img.shields.io/badge/-Spring%20MVC-090909?style=for-the-badge&logo=Spring&logoColor=6DB33F)
+![Vaadin](https://img.shields.io/badge/-Vaadin-090909?style=for-the-badge&logo=Vaadin&logoColor=2496ED)
 ![Spring Data](https://img.shields.io/badge/-Spring%20Data%20JPA-090909?style=for-the-badge&logo=Spring&logoColor=6DB33F)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-090909?style=for-the-badge&logo=Hibernate&logoColor=59666C)
+![Apache POI](https://img.shields.io/badge/-Apache.Poi-090909?style=for-the-badge&logo=ApacheMaven&logoColor=2496ED)
 ![JUnit5](https://img.shields.io/badge/-JUnit5-090909?style=for-the-badge&logo=JUnit5&logoColor=25A162)
+![Mockito](https://img.shields.io/badge/-Mockito-090909?style=for-the-badge&logo=Eclipse&logoColor=25A162)
 ![Apache Maven](https://img.shields.io/badge/-Maven-090909?style=for-the-badge&logo=ApacheMaven&logoColor=C71A36)
 ![postgresql](https://img.shields.io/badge/-postgresql-090909?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman&logoColor=FF6C37)
@@ -29,6 +33,13 @@ However, I have studied and applied some ***technologies and tools*** in my proj
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor=F05032)
 
 ---
+🔭 Here you can overview my public projects:  
+[DI object data extractor](git@github.com:RuslanYapparov/di-object-data-extractor.git) - The module of the
+'rzd-engineer-assistant' project responsible for obtaining information about infrastructure facilities.
+It simulates a connection to the database of passport data for infrastructure facilities.  
+[Employee data extractor](git@github.com:RuslanYapparov/employee-data-extractor.git) - the module of the project
+'rzd-engineer-assistant', responsible for retrieving extended information about enterprise employees.
+It simulates a connection to the human resources management database system.  
 
 🔭 Here you can overview my educational projects:  
 [Explore with me](https://github.com/RuslanYapparov/java-explore-with-me) - backend of service for attracting and gathering people to any events;  
@@ -42,5 +53,3 @@ However, I have studied and applied some ***technologies and tools*** in my proj
 <div id="visits" align="center">
   <img src="https://komarev.com/ghpvc/?username=RuslanYapparov&style=flat-square&color=blue" alt="" />
 </div>
-
-
